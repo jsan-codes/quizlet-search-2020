@@ -1,0 +1,22 @@
+{
+  "name": "Quizlet Search 2020",
+  "version": "1.0",
+  "description": "Fast and easy way to search quizlet for homework and exam questions.",
+  "background": {
+    "scripts": ["scripts/background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "notifications"
+  ],
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png",
+    "418": "images/icon418.png"
+  },
+
+  "manifest_version": 2
+}
